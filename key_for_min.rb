@@ -10,6 +10,6 @@ name_hash.collect do |key, value|
   key_min_value = key
 end
 end
-return key_min_value
+return "#{key_min_value}"
 end
 end
