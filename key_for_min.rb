@@ -1,6 +1,6 @@
 def key_for_min_value(name_hash)
-  min_value = nil
-  key_min_value = 0
+  min_value = 0
+  key_min_value = nil
 if name_hash == {}
   nil 
 else 
