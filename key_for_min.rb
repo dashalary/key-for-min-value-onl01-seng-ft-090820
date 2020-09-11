@@ -7,8 +7,9 @@ if name_hash == {}
   nil 
 else 
 name_hash.collect do |key, value| 
-  if value 
-  key
+ min_value = value 
+  
 end
 end
+key
 end
